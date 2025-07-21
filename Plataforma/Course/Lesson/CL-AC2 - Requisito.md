@@ -1,4 +1,4 @@
-# 🔐 Regra de Negócio CA-CA2 - Controle de Acesso de Aula 2: Aula Requisito
+# 🔐 Regra de Negócio CL-AC2 - Controle de Acesso de Aula 2: Aula Requisito
 
 > Ao ativar o recurso de aula requisito, o sistema bloqueia o acesso às aulas seguintes até que a aula obrigatória seja concluída.
 
@@ -57,22 +57,20 @@ Este controle é utilizado para garantir a progressão pedagógica e está dispo
 ## 🧩 Local de Implementação
 
 - Navegação do aluno dentro do curso
-- Hitórico de matriculas na visão do aluno
-- Hitórico de matriculas na visão do admin
+- Histórico de matriculas na visão do aluno
+- Histórico de matriculas na visão do admin
 
 ---
 
 ## 📄 Fonte da Regra
 
-- Documento de Regras Acadêmicas da Plataforma, seção 8.1  
-- Reunião pedagógica com coordenação – 2025-07-01
+- Documento de Regras Acadêmicas da Plataforma
 
 ---
 
 ## 🔐 Requisitos de Plano
 
-- Recurso **disponível apenas a partir do plano Basic**
-- Clientes de planos inferioes ao Basic não tem acesso a este recurso
+- Recurso disponível apenas a partir do **plano Basic**
 
 ---
 
