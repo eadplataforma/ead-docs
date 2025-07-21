@@ -41,7 +41,7 @@ A marca d'água segue o estilo definido na configuração global (ex: cor, posi�
 | Texto | ❌ Não |
 | Embed (ex: YouTube) | ❌ Não |
 | Live | ❌ Não |
-| Google Meet | ❌ Não |
+| Meet | ❌ Não |
 
 ---
 
