@@ -5,7 +5,7 @@ O objetivo é garantir clareza, rastreabilidade e padronização no entendimento
 
 ---
 
-## 🧭 Índice de Regras
+## 🧭 Índice de Regra
 
 | Módulo | Link |
 |--------|------|
