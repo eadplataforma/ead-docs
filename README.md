@@ -9,7 +9,7 @@ O objetivo é garantir clareza, rastreabilidade e padronização no entendimento
 
 | Módulo | Link |
 |--------|------|
-| Curso | [Ver Regra](./Plataforma/Curso/Aula/Controle%20de%20Acesso/A-C1%20-%20Identificação%20do%20aluno.md) |
+| Curso | [Ver Regra](./Plataforma/Curso/README.md) |
 
 ---
 
