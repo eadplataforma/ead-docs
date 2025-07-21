@@ -7,11 +7,9 @@ O objetivo é garantir clareza, rastreabilidade e padronização no entendimento
 
 ## 🧭 Índice de Regras
 
-| Código | Nome | Tipo | Link |
-|--------|------|------|------|
-| A-C1 | Exibir identificação do aluno (marca d’água) | Controle de Acesso | [Ver Regra](./Plataforma/Curso/Aula/Controle%20de%20Acesso/A-C1%20-%20Identificação%20do%20aluno.md) |
-| A-C2 | Aula Requisito | Controle de Acesso | [Ver Regra](Plataforma/Curso/Aula/Controle%20de%20Acesso/A-C2%20-%20Requisito.md) |
-| A-C3 | Tempo de Permanência na Aula | Controle de Acesso | [Ver Regra](Plataforma/Curso/Aula/Controle%20de%20Acesso/A-C3%20-%20Tempo%20de%20Permanência.md) |
+| Módulo | Link |
+|--------|------|
+| Curso | [Ver Regra](./Plataforma/Curso/Aula/Controle%20de%20Acesso/A-C1%20-%20Identificação%20do%20aluno.md) |
 
 ---
 
@@ -49,18 +47,6 @@ Cada regra segue um modelo padronizado com as seguintes seções:
 
 ### 🔗 Tags
 - Palavras-chave para facilitar busca e agrupamento de regras
-
----
-
-## 🧑‍💻 Como contribuir
-
-- Adicione novas regras no diretório `/rules/` usando o padrão de nomenclatura:  
-  `CÓDIGO-descricao-curta.md`  
-  Ex: `CA-CA4-bloqueio-download.md`
-
-- Atualize este `README.md` com o link para a nova regra
-
-- Mantenha o padrão de estrutura das seções
 
 ---
 
