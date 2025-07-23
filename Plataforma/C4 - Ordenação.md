@@ -1,4 +1,4 @@
-# Regra: Ordenação de Cursos, Módulos e Aulas
+# Regra de Negócio: C4 - Ordenação de Cursos, Módulos e Aulas
 
 ## Descrição
 
@@ -36,7 +36,6 @@ Esta regra define como funciona a ordenação automática de cursos, módulos e 
   - Módulo A volta à **ordem 1**
   - Módulo B e Módulo C retornam às **posições anteriores**
 
----
 
 ## 📙 Ordenação de Aulas
 

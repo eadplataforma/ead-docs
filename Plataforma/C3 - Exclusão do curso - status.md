@@ -1,4 +1,4 @@
-# Exclusão de Curso e Comportamento de Status na Restauração
+# Regra de Negócio: C3 - Exclusão de Curso e Comportamento de Status na Restauração
 
 ## Descrição
 

@@ -1,4 +1,4 @@
-# Exibição de Curso com Data Futura de Início
+# Regra de Negócio: C2 - Exibição de Curso com Data Futura de Início
 
 ## Descrição
 
