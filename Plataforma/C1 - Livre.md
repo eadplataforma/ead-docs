@@ -24,7 +24,7 @@ Quando a opção **Curso Livre** estiver **ativada** para um curso:
 ## Fluxo de Execução
 
 1. **Admin** ativa a opção **Curso Livre** nas configurações do curso.
-2. O curso é exibido na listagem de cursos acessíveis a todos os alunos.
+2. O curso é exibido na área de meus cursos, acessíveis a todos os alunos.
 3. Um aluno acessa o curso.
 4. O sistema verifica se o aluno já está matriculado.
    - Se **não estiver matriculado**, realiza a **matrícula automaticamente**.
@@ -53,7 +53,7 @@ Quando a opção **Curso Livre** estiver **ativada** para um curso:
 | Situação                             | Resultado Esperado                     |
 |-------------------------------------|----------------------------------------|
 | Curso com "Curso Livre" ativado     | Aluno visualiza e se matricula ao acessar |
-| Curso com "Curso Livre" desativado  | Aluno não visualiza automaticamente e precisa solicitar acesso/matrícula |
+| Curso com "Curso Livre" desativado  | Aluno não visualiza automaticamente e precisa ser matrículado |
 
 ---
 
