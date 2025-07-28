@@ -6,7 +6,7 @@ Esta regra define o comportamento da exibição de cursos na área "Meus Cursos"
 
 ## Regra
 
-Quando a data de início das aulas de um curso for futura (ou seja, ainda não tiver chegado):
+Quando a data de início das aulas de um curso for uma data futura:
 
 - O curso **não será exibido** na área "Meus Cursos" do aluno.
 - O curso **só será exibido** a partir da data definida como início das aulas.
@@ -14,10 +14,10 @@ Quando a data de início das aulas de um curso for futura (ou seja, ainda não t
 
 ## Exemplo
 
-Se um aluno for matriculado no dia 10 de agosto, em um curso com data de início marcada para o dia 20 de agosto:
+Se um aluno for matriculado no hoje, em um curso com data de início futura:
 
-- Entre os dias 10 e 19 de agosto: o curso **não aparecerá** na área "Meus Cursos".
-- A partir do dia 20 de agosto: o curso **passará a aparecer** automaticamente na área "Meus Cursos".
+- Antes da data futura, o curso **não aparecerá** na área "Meus Cursos".
+- A partir da data futura: o curso **passará a aparecer** automaticamente na área "Meus Cursos".
 
 ## Observação
 
