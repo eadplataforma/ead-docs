@@ -79,3 +79,4 @@ Quando a opção **Curso Livre** estiver **ativada** para um curso:
 ## 🔗 Tags
 
 `curso-livre` `matrícula-automática` `acesso-livre` `aluno` `disponibilidade` `ead`
+

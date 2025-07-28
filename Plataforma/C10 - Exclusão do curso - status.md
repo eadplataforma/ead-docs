@@ -60,3 +60,6 @@ Define o comportamento do sistema ao **excluir um curso**, incluindo os efeitos 
 ## 🔗 Tags
 
 `exclusão` `curso` `módulo` `aula` `matrícula` `produto` `grupo` `lixeira` `ead`
+
+
+

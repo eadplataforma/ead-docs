@@ -49,3 +49,4 @@ Essa regra contribui para o controle de qualidade dos cursos disponíveis na pla
 ## 🔗 Tags
 
 `curso-rascunho` `matrícula-bloqueada` `controle-de-qualidade` `administração` `ead`
+
