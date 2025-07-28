@@ -63,3 +63,63 @@ Esta regra define como funciona a ordenação automática de cursos, módulos e 
 
 - A ordenação é sempre recalculada automaticamente pelo sistema ao excluir ou restaurar itens.
 - Esse comportamento garante uma visualização consistente e organizada dos conteúdos, mesmo após operações de manutenção feitas pelo administrador.
+
+
+# Regra: C4 - Ordenação de Cursos
+
+## Descrição
+
+Define como os cursos são ordenados na plataforma, independentemente do status (Publicado ou Rascunho).
+
+---
+
+## Funcionamento da Ordenação
+
+- Os cursos são ordenados com base em um campo numérico de ordem crescente (1, 2, 3...).
+- Ao excluir um curso, os cursos abaixo na lista sobem uma posição para preencher a lacuna.
+- Ao restaurar um curso excluído, ele **retorna à posição original** na ordem e os outros cursos são reorganizados.
+
+---
+
+## Exemplo
+
+1. Curso A (ordem 1)  
+2. Curso B (ordem 2)  
+3. Curso C (ordem 3)
+
+Se o **Curso A** for excluído:
+
+- Curso B → ordem 1  
+- Curso C → ordem 2
+
+Ao **restaurar o Curso A**:
+
+- Curso A → volta à ordem 1  
+- Curso B → volta à ordem 2  
+- Curso C → volta à ordem 3
+
+---
+
+## 🧩 Local de Implementação
+
+- Na listagem de cursos, módulos e aulas para o aluno e administrador.
+- Nos fluxos de exclusão, restauração, cópia e movimentação de cursos, módulos e aulas.
+- No painel administrativo de organização de conteúdos.
+
+---
+
+## 📄 Fonte da Regra
+
+- Especificação da Plataforma EAD
+
+---
+
+## 🔐 Requisitos de Plano
+
+- Disponível para todos os planos.
+
+---
+
+## 🔗 Tags
+
+`ordenação` `curso` `módulo` `aula` `organização` `administração` `ead`

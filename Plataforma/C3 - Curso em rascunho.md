@@ -25,3 +25,27 @@ Se um curso "Excel Intermediário" estiver com status **Rascunho**:
 ## Observação
 
 Essa regra contribui para o controle de qualidade dos cursos disponíveis na plataforma, evitando o acesso a materiais incompletos ou em revisão.
+
+## 🧩 Local de Implementação
+
+- Na listagem de cursos disponíveis/meus cursos para o aluno.
+- No fluxo de matrícula (manual, automatizada ou via integração).
+- No painel administrativo de cursos.
+
+---
+
+## 📄 Fonte da Regra
+
+- Especificação da Plataforma EAD
+
+---
+
+## 🔐 Requisitos de Plano
+
+- Disponível para todos os planos de aluno.
+
+---
+
+## 🔗 Tags
+
+`curso-rascunho` `matrícula-bloqueada` `controle-de-qualidade` `administração` `ead`

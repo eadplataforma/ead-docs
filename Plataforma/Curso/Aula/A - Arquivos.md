@@ -51,3 +51,27 @@ A plataforma oferece a opção de **habilitar DRM (Digital Rights Management)** 
 ---
 
 Esse recurso fortalece a entrega de conteúdo estruturado, ao mesmo tempo em que protege os direitos autorais do material disponibilizado.
+
+## 🧩 Local de Implementação
+
+- Na área de materiais complementares da aula ou curso.
+- Nos fluxos de upload, configuração e exibição de arquivos para alunos.
+- Nas opções de ativação de DRM por arquivo.
+
+---
+
+## 📄 Fonte da Regra
+
+- Especificação da Plataforma EAD
+
+---
+
+## 🔐 Requisitos de Plano
+
+- Disponível para todos os planos.
+
+---
+
+## 🔗 Tags
+
+`arquivos` `material-complementar` `drm` `segurança` `download` `ead`

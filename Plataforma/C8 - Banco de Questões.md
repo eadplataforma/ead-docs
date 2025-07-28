@@ -64,3 +64,27 @@ O sistema permite três tipos de questões:
 - A utilização dos campos de observação e solução **enriquece a experiência pedagógica** do aluno.
 - A limitação de 8 alternativas por questão ajuda a manter a clareza e objetividade das avaliações.
 
+## 🧩 Local de Implementação
+
+- No painel administrativo de Banco de Questões.
+- Nos fluxos de criação, importação, exportação, edição, exclusão e restauração de questões.
+- Nas telas de configuração e exibição de provas/quizzes.
+
+---
+
+## 📄 Fonte da Regra
+
+- Especificação da Plataforma EAD
+
+---
+
+## 🔐 Requisitos de Plano
+
+- Disponível a partir do plano starter.
+
+---
+
+## 🔗 Tags
+
+`banco-de-questões` `prova` `quiz` `questão` `importação` `exportação` `ordenação` `ead`
+

@@ -35,3 +35,27 @@ O recurso de **Colaboradores** permite ao administrador adicionar usuários que 
 ## Observação
 
 Essa regra garante que apenas usuários com os níveis apropriados de permissão e conhecimento gerencial sejam responsáveis pela coordenação dos cursos, mantendo a estrutura organizacional clara e funcional.
+
+## 🧩 Local de Implementação
+
+- No painel administrativo de cursos.
+- Nas telas de gerenciamento de colaboradores, módulos e aulas.
+- Nos fluxos de atribuição de papéis e permissões em cursos.
+
+---
+
+## 📄 Fonte da Regra
+
+- Especificação da Plataforma EAD
+
+---
+
+## 🔐 Requisitos de Plano
+
+- Disponível para todos os planos.
+
+---
+
+## 🔗 Tags
+
+`colaboradores` `curso` `professor` `tutor` `coordenador` `permissão` `ead`

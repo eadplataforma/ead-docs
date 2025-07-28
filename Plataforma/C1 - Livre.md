@@ -57,7 +57,25 @@ Quando a opção **Curso Livre** estiver **ativada** para um curso:
 
 ---
 
-## Considerações Técnicas
+## 🧩 Local de Implementação
 
-- A matrícula automática deve ser registrada com data/hora do primeiro acesso.
-- O evento de matrícula deve seguir o mesmo padrão dos demais tipos de matrícula (para fins de relatório e integração).
+- Na listagem de cursos disponíveis/meus cursos para o aluno.
+- No fluxo de acesso ao curso (primeiro acesso).
+
+---
+
+## 📄 Fonte da Regra
+
+- Especificação da Plataforma EAD
+
+---
+
+## 🔐 Requisitos de Plano
+
+- Disponível para todos os planos de aluno.
+
+---
+
+## 🔗 Tags
+
+`curso-livre` `matrícula-automática` `acesso-livre` `aluno` `disponibilidade` `ead`

@@ -22,3 +22,26 @@ Se um aluno for matriculado no hoje, em um curso com data de início futura:
 ## Observação
 
 Esta lógica, evita que alunos acessem conteúdos, antes da data oficial de início definida para o curso.
+
+## 🧩 Local de Implementação
+
+- Na listagem de cursos disponíveis/meus cursos para o aluno.
+- No controle de exibição de cursos conforme a data de início.
+
+---
+
+## 📄 Fonte da Regra
+
+- Especificação da Plataforma EAD
+
+---
+
+## 🔐 Requisitos de Plano
+
+- Disponível para todos os planos de aluno.
+
+---
+
+## 🔗 Tags
+
+`curso` `data-inicio` `meus-cursos` `restricao-acesso` `ead`
