@@ -46,3 +46,5 @@ Esta lógica, evita que alunos acessem conteúdos, antes da data oficial de iní
 
 `curso` `data-inicio` `meus-cursos` `restricao-acesso` `ead`
 
+teste
+
